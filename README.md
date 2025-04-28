@@ -1,4 +1,11 @@
-## Hi there 👋
+## Welcome 👋
+
+I am Degun, a random Rhino doing OSINT stuff.
+
+Here you can find some use~~less~~full script mainly un Python and CTFd Plugins.
+
+I am the CEO/Analyst in chief/accountant/Sales manager/Creative Director of [Manufacture Française d'Osint](https://manufacture-osint.fr) (meaning I work alone) and also a membre of [Oscar Zulu Osint Crew](https://oscarzulu.org).
+
 
 <!--
 **degun-osint/degun-osint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
